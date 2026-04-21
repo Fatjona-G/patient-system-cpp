@@ -50,9 +50,9 @@ PatientSystem/
 ├── main.cpp
 ├── README.md
 
-Antarët
-*Fatjona Gashi
-*Fatime Sadiku
+Antarët:
+Fatjona Gashi
+Fatime Sadiku
 
 Qëllimi i projektit
 Qëllimi është të demonstrohet përdorimi i GitHub për version control dhe zhvillimi i një sistemi të thjeshtë menaxhimi në C++ në mënyrë bashkëpunuese.
